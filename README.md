@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanzin Paldan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **real estat projecte**
+- 🔭 I’m currently working on **real estate projecte **
 
 - 🌱 I’m currently learning **react.js**
 
