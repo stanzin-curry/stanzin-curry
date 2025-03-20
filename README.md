@@ -2,7 +2,7 @@ Hi there 👋 I'm Stanzin
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 · ⛰  I'm from Ladakh.  
 
-· 🔭 I’m currently working on a Real Estate project.
+· 🔭 I have worked  on a Real Estate project.
 
 
 · 🌱 I’m currently learning Javascript framework (React.js) and DSA.
