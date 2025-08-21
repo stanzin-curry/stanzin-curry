@@ -14,7 +14,7 @@ Hi there 👋 I'm Stanzin
 · 👯 I’m looking for new projects and new ideas, so feel free to hit me up for anything new.
 
 
-· 🎸 I'm also a bid fan of "John Mayer".
+· 🎸 I'm also a big fan of "John Mayer".
 
 
 
