@@ -8,7 +8,7 @@ Hi there 👋 I'm Stanzin
 · 🌱 I’m currently learning Javascript framework (React.js) and DSA.
 
 
-. 📽️ I'm actively working on a product for Nakpo Studio — aiming to deliver a sleek, responsive UI with React.js.
+. 📽️ I'm actively working on a   website for Nakpo Studio — aiming to deliver a sleek, responsive UI with React.js.
 
 · 👯 I’m looking for new projects and new ideas, so feel free to hit me up for anything new.
 
