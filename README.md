@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Stanzin Paldan<br>💻 Frontend Developer | 🌐 Aspiring Full-Stack Engineer | 🎸 Music Enthusiast<br>🚀 About Me<br>🌍 Based in Ladakh, India<br>🔭 Currently working on a Social Media Scheduler (content automation & management)<br>🤝 Open to collaborating on Full-Stack Projects, SaaS Products, and Open Source<br>🛠️ Skilled in Frontend Development (React, UI/UX), Performance Optimization, and Responsive Design<br>📚 Currently learning System Design & Data Structures & Algorithms (DSA)<br>💬 Ask me about React, JavaScript, and UI/UX Design<br>⚡ Fun fact: I enjoy playing guitar and sports like basketball & football
+👋 Hi, I'm Stanzin Paldan<br>💻 Frontend Developer | 🌐 Aspiring Full-Stack Engineer | 🎸 Music Enthusiast<br>🚀 About Me<br>🌍 Based in Ladakh, India<br>🔭 Currently working on a Social Media Scheduler (content automation & management)<br>🤝 Open to collaborating on Full-Stack Projects, SaaS Products, and Open Source<br>🛠️ Skilled in Frontend Development (React, UI/UX), Performance Optimization, and Responsive Design<br>📚 Currently learning System Design & Data Structures & Algorithms (DSA)<br>💬 Ask me about React, JavaScript, and UI/UX Design<br>⚡ Fun fact: I enjoy playing guitar and sports like basketball & football.
 
 
 ## 🌐 Socials:
